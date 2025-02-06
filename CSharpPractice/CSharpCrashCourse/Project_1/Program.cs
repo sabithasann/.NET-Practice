@@ -7,7 +7,7 @@
 //uint 
 //long - 64 bit
 
-//Data types can be marked as nullable by adding a ? after the data type. Default in C# is non-nullable.
+//Data types can be marked as nullable by adding a ? after the data type. Default in C# is non-nullable. 
 //int? myInt = 32;
 //Int32 myInt32 = new Int32();
 
