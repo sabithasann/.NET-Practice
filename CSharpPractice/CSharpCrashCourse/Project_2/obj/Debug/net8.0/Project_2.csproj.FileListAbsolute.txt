@@ -1,0 +1,15 @@
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\bin\Debug\net8.0\Project_2.exe
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\bin\Debug\net8.0\Project_2.deps.json
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\bin\Debug\net8.0\Project_2.runtimeconfig.json
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\bin\Debug\net8.0\Project_2.dll
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\bin\Debug\net8.0\Project_2.pdb
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.GeneratedMSBuildEditorConfig.editorconfig
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.AssemblyInfoInputs.cache
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.AssemblyInfo.cs
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.csproj.CoreCompileInputs.cache
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.sourcelink.json
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.dll
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\refint\Project_2.dll
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.pdb
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\Project_2.genruntimeconfig.cache
+D:\.NET-Practice\CSharpPractice\CSharpCrashCourse\Project_2\obj\Debug\net8.0\ref\Project_2.dll
